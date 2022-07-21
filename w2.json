@@ -113,7 +113,7 @@
           "help": {
             "online": "http://camelmicro.com/"
           },
-          "url": "https://github.com/wooneefuqi/try-flow/blob/main/w2-1.0.4.zip?raw=true",
+          "url": "https://github.com/wooneefuqi/try-flow/raw/download/w2-1.0.4.zip",
           "archiveFileName": "W2-1.0.4.zip",
           "size": "101702",
           "boards": [
@@ -162,9 +162,8 @@
           "systems": [
             {
               "host": "i686-mingw32",
-              "archiveFileName": "mips-compiler.zip",
-              "url": "http://127.0.0.1:3000/mips-compiler.zip",
-	      "size": "203767243"
+              "archiveFileName": "mips-compiler-1.zip",
+              "url": "https://github.com/wooneefuqi/try-flow/raw/download/mips-compiler-1.zip"
             }
           ]
         }
