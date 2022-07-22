@@ -17,9 +17,10 @@
           "help": {
             "online": "http://camelmicro.com/"
           },
-          "url": "https://github.com/ABiscuitttt/W2-Develop-Board-For-Arduino/tree/main/Hardware%20archive%20files/w2-1.0.0.zip?raw=true",
+          "url": "https://github.com/wooneefuqi/try-flow/raw/download/w2-1.0.0.zip",
           "archiveFileName": "W2-1.0.0.zip",
           "size": "98676",
+	  "checksum": "MD5:a17e6ac983e3141ce6d6e12003520764",
           "boards": [
             {
               "name": "W2 Develop Board"
@@ -41,9 +42,10 @@
           "help": {
             "online": "http://camelmicro.com/"
           },
-          "url": "https://github.com/ABiscuitttt/W2-Develop-Board-For-Arduino/tree/main/Hardware%20archive%20files/w2-1.0.1.zip?raw=true",
+          "url": "https://github.com/wooneefuqi/try-flow/raw/download/w2-1.0.1.zip",
           "archiveFileName": "W2-1.0.1.zip",
           "size": "97232",
+	  "checksum": "MD5:3c6e8bd2299f47c4f0d5b6963cded352",
           "boards": [
             {
               "name": "W2 Develop Board"
@@ -65,9 +67,10 @@
           "help": {
             "online": "http://camelmicro.com/"
           },
-          "url": "https://github.com/ABiscuitttt/W2-Develop-Board-For-Arduino/tree/main/Hardware%20archive%20files/w2-1.0.2.zip?raw=true",
+          "url": "https://github.com/wooneefuqi/try-flow/raw/download/w2-1.0.2.zip",
           "archiveFileName": "W2-1.0.2.zip",
           "size": "100338",
+	  "checksum": "MD5:9e03990ae8860854e98bcc3c4d31edbb",
           "boards": [
             {
               "name": "W2 Develop Board"
@@ -89,9 +92,10 @@
           "help": {
             "online": "http://camelmicro.com/"
           },
-          "url": "https://github.com/ABiscuitttt/W2-Develop-Board-For-Arduino/tree/main/Hardware%20archive%20files/w2-1.0.3.zip?raw=true",
+          "url": "https://github.com/wooneefuqi/try-flow/raw/download/w2-1.0.3.zip",
           "archiveFileName": "W2-1.0.3.zip",
           "size": "100357",
+	  "checksum": "MD5:43b7a828323faafbf8c2a516cd9f594f",
           "boards": [
             {
               "name": "W2 Develop Board"
@@ -138,9 +142,10 @@
           "help": {
             "online": "http://camelmicro.com/"
           },
-          "url": "https://github.com/ABiscuitttt/W2-Develop-Board-For-Arduino/tree/main/Hardware%20archive%20files/w2-1.1.0.zip?raw=true",
+          "url": "https://github.com/wooneefuqi/try-flow/raw/download/w2-1.1.0.zip",
           "archiveFileName": "W2-1.1.0.zip",
           "size": "101712",
+	  "checksum": "MD5:671f597dab8655c0ebc1fb839f48a2e9",
           "boards": [
             {
               "name": "W2 Develop Board"
